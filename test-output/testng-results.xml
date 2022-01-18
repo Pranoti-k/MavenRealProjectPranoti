@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T21:22:10 EST" name="Default suite" finished-at="2022-01-17T21:22:10 EST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T21:22:10 EST" name="Default test" finished-at="2022-01-17T21:22:10 EST" duration-ms="104">
+      <class name="selenium.project.MobileTest">
+        <test-method signature="mobileTestDemo()[pri:0, instance:selenium.project.MobileTest@47faa49c]" started-at="2022-01-17T21:22:10 EST" name="mobileTestDemo" finished-at="2022-01-17T21:22:10 EST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTestDemo -->
+      </class> <!-- selenium.project.MobileTest -->
+      <class name="selenium.project.SeleniumApplication">
+        <test-method signature="seleniumDemo()[pri:0, instance:selenium.project.SeleniumApplication@a530d0a]" started-at="2022-01-17T21:22:10 EST" name="seleniumDemo" finished-at="2022-01-17T21:22:10 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumDemo -->
+      </class> <!-- selenium.project.SeleniumApplication -->
+      <class name="selenium.project.RestAssuredApi">
+        <test-method signature="restAssuredTestDemo()[pri:0, instance:selenium.project.RestAssuredApi@1a18644]" started-at="2022-01-17T21:22:10 EST" name="restAssuredTestDemo" finished-at="2022-01-17T21:22:10 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAssuredTestDemo -->
+      </class> <!-- selenium.project.RestAssuredApi -->
+      <class name="selenium.project.APITest">
+        <test-method signature="apiTestDemo()[pri:0, instance:selenium.project.APITest@5acf93bb]" started-at="2022-01-17T21:22:10 EST" name="apiTestDemo" finished-at="2022-01-17T21:22:10 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTestDemo -->
+      </class> <!-- selenium.project.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
